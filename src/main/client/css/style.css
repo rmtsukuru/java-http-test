@@ -1,0 +1,22 @@
+
+body {
+    height: 98vh;
+    background-color: #f8f8f8;
+    margin: 0;
+}
+
+.main-container {
+    padding: 15px;
+    background-color: #eee;
+    height: calc(100% - 30px);
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: 'Impact', 'Arial', sans-serif;
+}
+
+.pink {
+    color: pink;
+}
+
